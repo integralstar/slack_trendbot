@@ -1,6 +1,6 @@
 # slack_trendbot
 
-[!이미지](https://github.com/integralstar/slack_trendbot/blob/main/UC8HPSuNkQ.png)
+![Trend BOT](https://github.com/integralstar/slack_trendbot/blob/main/UC8HPSuNkQ.png)
 
 1. Slack에서 event BOT을 mention 발생 시 호출 되도록 등록한다.
 2. token을 입력 후에 python으로 실행한다.
